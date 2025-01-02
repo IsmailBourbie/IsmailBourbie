@@ -1,7 +1,8 @@
 
 # Hi, I'm Ismail! 👋  
 
-Welcome to my GitHub! I’m a **Software Engineer** with a Master’s degree and over **5 years of experience** in web development. My expertise lies in building **scalable, maintainable applications** using **PHP** and **Laravel**.
+Software Engineer with 5+ years experience in **PHP/Laravel**. I build scalable web applications with clean, maintainable code.
+
 
 ## 🚀 Skills and Expertise  
 - **Languages**: PHP, JavaScript  
@@ -9,11 +10,10 @@ Welcome to my GitHub! I’m a **Software Engineer** with a Master’s degree and
 - **Databases**: MySQL, PostgreSQL  
 - **Other Tools**: Docker, Git, REST APIs, Unit Testing  
 
-## 🔧 Current Focus  
-I’m currently working on:  
-- Building efficient back-end systems using **Laravel**.  
-- Developing scalable and testable applications.  
-- Exploring innovative ways to optimize system performance.  
+## 🛠️ What I Do  
+- Build scalable backend systems using Laravel.  
+- Develop testable and maintainable applications.  
+- Implement robust API solutions.  
 
 ## 🤝 Let’s Collaborate!  
 I enjoy working with other developers and tackling new challenges. If you’re interested in collaborating on a project, feel free to reach out!  
